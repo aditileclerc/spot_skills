@@ -12,7 +12,7 @@
 	url = git@github.com:h2r/pose_estimation_msgs.git
 [submodule "src/spot_skills/src/robotics_utils"]
 	path = src/spot_skills/src/robotics_utils
-	url = git@github.com:Benned-H/robotics_utils.git
+	url = https://github.com/aditileclerc/robotics_utils.git
 [submodule "lerobot-spot"]
 	path = lerobot-spot
 	url = git@github.com:waymao/lerobot-spot.git
